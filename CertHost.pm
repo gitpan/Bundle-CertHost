@@ -1,6 +1,6 @@
 package Bundle::CertHost;
 
-$VERSION = "0.01";
+$VERSION = "0.02";
 
 1;
 
@@ -40,115 +40,9 @@ FCGI
 
 CGI::Fast
 
-CGI::Application - Start Framework section
+Task::CGI::Application
 
-CGI::Application::Plugin::ActionDispatch - Taken from cgi-app.org plugins page 2009/01/20
-
-CGI::Application::Plugin::ActionDispatch
-
-CGI::Application::Plugin::AnyTemplate
-
-CGI::Application::Plugin::AutoRunmode
-
-CGI::Application::Plugin::Authentication
-
-CGI::Application::Plugin::BREAD
-
-CGI::Application::Plugin::CaptureIO
-
-CGI::Application::Plugin::CHI
-
-CGI::Application::Plugin::CompressGzip
-
-CGI::Application::Plugin::ConfigAuto
-
-CGI::Application::Plugin::Config::Context
-
-CGI::Application::Plugin::Config::Simple
-
-CGI::Application::Plugin::DebugScreen
-
-CGI::Application::Plugin::DevPopup
-
-CGI::Application::Plugin::DBH
-
-CGI::Application::Plugin::Eparam
-
-CGI::Application::Plugin::ErrorPage
-
-CGI::Application::Plugin::Feedback
-
-CGI::Application::Plugin::FillInForm
-
-CGI::Application::Plugin::Forward
-
-CGI::Application::Plugin::HTDot
-
-CGI::Application::Plugin::HTMLPrototype
-
-CGI::Application::Plugin::HtmlTidy
-
-CGI::Application::Plugin::I18N
-
-CGI::Application::Plugin::JSON
-
-CGI::Application::Plugin::LinkIntegrity
-
-CGI::Application::Plugin::LogDispatch
-
-CGI::Application::Plugin::MessageStack
-
-CGI::Application::Plugin::Output::XSV
-
-CGI::Application::Plugin::PageBuilder
-
-CGI::Application::Plugin::RateLimit
-
-CGI::Application::Plugin::Redirect
-
-CGI::Application::Plugin::Routes
-
-CGI::Application::Plugin::RunmodeDeclare
-
-CGI::Application::Plugin::Session
-
-CGI::Application::Plugin::Stash
-
-CGI::Application::Plugin::Stream
-
-CGI::Application::Plugin::TemplateRunner
-
-CGI::Application::Plugin::TT
-
-CGI::Application::Plugin::ValidateRM
-
-CGI::Application::Plugin::ViewCode
-
-CGI::Application::Plugin::YAML
-
-CGI::Application::Dispatch
-
-CGI::Application::Dispatch::BuildURI
-
-CGI::Application::Dispatch::Server
-
-CGI::Application::FastCGI
-
-CGI::Application::Generator
-
-CGI::Application::MailPage
-
-CGI::Application::PhotoGallery
-
-CGI::Application::Search
-
-CGI::Application::Server
-
-CGI::Application::URIMapping
-
-Titanium
-
-Catalyst
+Task::Catalyst
 
 Digest::MD5 - Start Digest section
 
